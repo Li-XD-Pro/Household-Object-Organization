@@ -34,3 +34,19 @@ After downloading the above files, you can run the following commands to train t
 ```
 python train.py
 ```
+
+
+## 3.CITATION
+
+If you find our work useful for your research, please cite:
+
+```
+@inproceedings{li2024transformer,
+  title={Transformer-Based Relationship Inference Model for Household Object Organization by Integrating Graph Topology and Ontology},
+  author={Li, Xiaodong and Tian, Guohui and Cui, Yongcheng and Gu, Yu},
+  booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={4831--4837},
+  year={2024},
+  organization={IEEE}
+}
+```
